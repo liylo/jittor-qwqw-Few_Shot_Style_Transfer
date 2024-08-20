@@ -1,0 +1,238 @@
+{
+    "00": {},
+    "01": {
+        "Notebook": "Trees",
+        "Pencil": "Trees",
+        "Seed": "Sunflower",
+        "Boat": "Trees",
+        "Glasses": "Face"
+    },
+    "02": {
+        "Blanket": "People",
+        "Clock": "People",
+        "Coffee": "People",
+        "Fork": "People",
+        "Scarf": "People",
+        "Scissors": "People",
+        "Theatre": "People"
+    },
+    "03": {
+        "Hat": "People",
+        "Pencil": "Plate, Circles",
+        "Glasses": "Face"
+    },
+    "04": {
+        "Peacock": "snowflake",
+        "Volcano": "snowflake",
+        "Pineapple": "snowflake",
+        "Computer": "snowflake",
+        "Chocolate": "snowflake",
+        "Painting": "snowflake",
+        "Seed": "snowflake",
+        "Orange": "snowflake",
+        "Ship": "snowflake",
+        "Shelf": "snowflake",
+        "Tulip": "snowflake",
+        "Castle": "snowflake",
+        "Dress": "snowflake",
+        "Coat": "snowflake",
+        "Cherry": "snowflake",
+        "Panda": "snowflake",
+        "Tomato": "snowflake",
+        "Bag": "snowflake",
+        "Duck": "snowflake",
+        "Workshop": "snowflake",
+        "Book": "snowflake",
+        "Apple": "snowflake",
+        "Gate": "snowflake",
+        "Greenhouse": "snowflake",
+        "Lamp": "snowflake"
+    },
+    "05": {
+        "Cup": "Hat",
+        "Hospital": "Hat",
+        "Notebook": "Hat",
+        "Orange": "Hat"
+    },
+    "06": {
+        "Airport": "orchid",
+        "Barn": "orchid",
+        "Duck": "orchid",
+        "Fox": "orchid",
+        "Dog": "orchid",
+        "Branch": "Trees, Vase, orchid",
+        "Cafe": "Trees, Vase, orchid",
+        "Coffee": "Trees, Vase, orchid",
+        "Cup": "Trees, Vase, orchid",
+        "Hat": "Trees, Vase, orchid",
+        "House": "Trees, Vase, orchid",
+        "Ice cream": "Flower, Vase, orchid",
+        "Library": "Trees, Vase, orchid",
+        "Mall": "Trees, Vase, orchid",
+        "Market": "Trees, Vase, orchid",
+        "Onion": "Trees, Vase, orchid",
+        "Painting": "Trees, Vase, orchid",
+        "Peach": "Trees, Vase, orchid",
+        "Restaurant": "Trees, Vase, orchid",
+        "River": "Trees, orchid",
+        "Shelf": "Trees, Vase, orchid",
+        "Snow": "Trees, Building, orchid",
+        "Spoon": "orchid",
+        "Stadium": "orchid",
+        "Swan": "orchid",
+        "Vase": "orchid"
+    },
+    "07": {
+        "Branch": "Trees",
+        "Desert": "People",
+        "Hospital": "Bus",
+        "Skateboard": "People",
+        "Sun": "People",
+        "Sushi": "People, Shop",
+        "Towel": "Mirror, People"
+    },
+    "08": {
+        "Desk": "Dog, Animal",
+        "Medicine": "Dog, Animal",
+        "Pencil": "Dog, Animal",
+        "Plate": "Dog, Animal"
+    },
+    "09": {
+        "Cherry": "Flower, Branch",
+        "Coat": "People",
+        "Computer": "Flower",
+        "Earring": "Flower,",
+        "Island": "Trees",
+        "River": "Trees",
+        "Road": "Trees",
+        "Tower": "Trees",
+        "Water": "Flower"
+    },
+    "10": {
+        "Glasses": "Face",
+        "Medicine": "Radio",
+        "Moon": "Astronaut",
+        "Station": "Radio"
+    },
+    "11": {
+        "Cheese": "Face",
+        "Cup": "Cream",
+        "Fence": "House, Building",
+        "Fork": "Face, Eyes",
+        "Hat": "Face, People",
+        "Pool": "House, Building",
+        "Port": "House, Building",
+        "Sunglasses": "Face, People"
+    },
+    "12": {
+        "Brush": "Wall",
+        "Pillow": "Wall",
+        "Wallet": "Wall"
+    },
+    "13": {
+        "Banana": "Bamboo, Leaves",
+        "Bed": "Trees, Buiding",
+        "Canyon": "Buiding",
+        "Chocolate": "Trees, Buiding",
+        "Desk": "Laptop",
+        "Dress": "People",
+        "Fire": "Trees, Buiding",
+        "Juice": "Trees, Buiding",
+        "Park": "Trees, Buiding",
+        "Plate": "Trees, Buiding",
+        "Pool": "Trees, Buiding",
+        "Seed": "Trees, Buiding",
+        "Waterfall": "Trees, Buiding",
+        "Zoo": "Trees, Buiding"
+    },
+    "14": {},
+    "15": {
+        "Cucumber": "People",
+        "Dress": "People",
+        "Duck": "People",
+        "Fish": "People",
+        "Medicine": "People",
+        "Table": "Buiding"
+    },
+    "16": {},
+    "17": {
+        "Glasses": "Face, people",
+        "Coat": "People"
+    },
+    "18": {
+        "Brush": "Doll",
+        "Earrings": "Doll",
+        "Mango": "Doll",
+        "Pillow": "Doll",
+        "Plate": "Doll",
+        "Tea": "Doll",
+        "Water": "Cup, Glass",
+        "Necklace": "Doll"
+    },
+    "19": {
+        "Banana": "Dog",
+        "Cherry": "Dog",
+        "Cup": "Dog",
+        "Fire": "Dog",
+        "Fish": "Dog",
+        "Fork": "Dog",
+        "Gallery": "Dog",
+        "Island": "Dog",
+        "Lettuce": "Dog",
+        "Peacock": "Dog",
+        "Sand": "Dog",
+        "Scarf": "Dog, Face",
+        "Ship": "Dog, Face",
+        "Tomato": "Dog, Face",
+        "Towel": "Face, Eyes",
+        "Tree": "Face, Eyes"
+    },
+    "20": {
+        "Beach": "Castle",
+        "Book": "Wizard",
+        "Bracelet": "People",
+        "Computer": "Desk, Castle",
+        "Opera": "Wizard",
+        "Plate": "Wizard",
+        "Ring": "Wizard",
+        "Watch": "Wizard",
+        "Zoo": "Castle"
+    },
+    "21": {},
+    "22": {
+        "Coffee": "Bottle"
+    },
+    "23": {
+        "Chocolate": "Cake",
+        "Dress": "People"
+    },
+    "24": {
+        "Branch": "Tree",
+        "Knife": "Tree",
+        "Lake": "Tree",
+        "Painting": "Cactus",
+        "Plate": "Cactus",
+        "Spoon": "Tree, Pine tree",
+        "Workshop": "Pine tree"
+    },
+    "25": {},
+    "26": {
+        "Beach": "Animal, Dog",
+        "Brush": "Animal",
+        "Cafe": "Animal",
+        "Fork": "Animal",
+        "Library": "Animal, Dog",
+        "Milk": "Animal, Cow",
+        "Market": "Animal, Dog",
+        "Painting": "Animal",
+        "Moon": "Animal",
+        "Pool": "Animal, Dog",
+        "Scarf": "Animal",
+        "Table": "Animal, Dog"
+    },
+    "27": {
+        "School": "Car",
+        "Train": "Car",
+        "Waterfall": "Car"
+    }
+}

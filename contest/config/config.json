@@ -1,0 +1,3558 @@
+{
+    "00": {
+        "Ring": {
+            "weight": "oft16",
+            "seed": 5110,
+            "level": "adain"
+        },
+        "Hotel": {
+            "weight": "dora4",
+            "seed": 5110,
+            "level": "adain"
+        },
+        "Building": {
+            "weight": "dora4",
+            "seed": 2048,
+            "level": "adain"
+        },
+        "Deer": {
+            "weight": "dora4",
+            "seed": 5110,
+            "level": "adain"
+        },
+        "Donkey": {
+            "weight": "dora4",
+            "seed": 5110,
+            "level": "adain"
+        },
+        "Belt": {
+            "weight": "dora4",
+            "seed": 42,
+            "level": "adain"
+        },
+        "Zebra": {
+            "weight": "dora4",
+            "seed": 2048,
+            "level": "adain"
+        },
+        "Milk": {
+            "weight": "dora4",
+            "seed": 42,
+            "level": "adain"
+        },
+        "Onion": {
+            "weight": "dora4",
+            "seed": 5110,
+            "level": "adain"
+        },
+        "Temple": {
+            "weight": "dora4",
+            "seed": 5110,
+            "level": "adain"
+        },
+        "Pizza": {
+            "weight": "oft16",
+            "seed": 5110,
+            "level": "adain"
+        },
+        "Kangaroo": {
+            "weight": "dora4",
+            "seed": 1234,
+            "level": "adain"
+        },
+        "Whale": {
+            "weight": "dora4",
+            "seed": 42,
+            "level": "adain"
+        },
+        "Dog": {
+            "weight": "dora4",
+            "seed": 2048,
+            "level": "adain"
+        },
+        "Butterfly": {
+            "weight": "dora4",
+            "seed": 1234,
+            "level": "adain"
+        },
+        "Cheese": {
+            "weight": "oft8",
+            "seed": 5110,
+            "level": "adain"
+        },
+        "Panda": {
+            "weight": "dora4",
+            "seed": 42,
+            "level": "adain"
+        },
+        "Cat": {
+            "weight": "dora4",
+            "seed": 42,
+            "level": "adain"
+        },
+        "Statue": {
+            "weight": "dora4",
+            "seed": 5110,
+            "level": "adain"
+        },
+        "Leaf": {
+            "weight": "dora4",
+            "seed": 5110,
+            "level": "adain"
+        },
+        "Earrings": {
+            "weight": "dora4",
+            "seed": 1234,
+            "level": "adain"
+        },
+        "Sunglasses": {
+            "weight": "oft16",
+            "seed": 42,
+            "level": "adain"
+        },
+        "Boat": {
+            "weight": "oft8",
+            "seed": 5110,
+            "level": "adain"
+        },
+        "Swan": {
+            "weight": "dora4",
+            "seed": 5110,
+            "level": "adain"
+        },
+        "Pool": {
+            "weight": "oft16",
+            "seed": 1234,
+            "level": "adain"
+        }
+    },
+    "01": {
+        "Notebook": {
+            "weight": "dora8",
+            "seed": 1234,
+            "level": "raw"
+        },
+        "Seed": {
+            "weight": "dora4",
+            "seed": 42,
+            "level": "raw"
+        },
+        "Valley": {
+            "weight": "dora4",
+            "seed": 2048,
+            "level": "raw"
+        },
+        "Cheese": {
+            "weight": "dora8",
+            "seed": 5110,
+            "level": "raw"
+        },
+        "Ocean": {
+            "weight": "oft8",
+            "seed": 42,
+            "level": "raw"
+        },
+        "Factory": {
+            "weight": "oft8",
+            "seed": 42,
+            "level": "raw"
+        },
+        "Corn": {
+            "weight": "oft8",
+            "seed": 42,
+            "level": "adain"
+        },
+        "Pencil": {
+            "weight": "oft8",
+            "seed": 2048,
+            "level": "raw"
+        },
+        "Tulip": {
+            "weight": "dora8",
+            "seed": 42,
+            "level": "a"
+        },
+        "Lettuce": {
+            "weight": "dora4",
+            "seed": 1234,
+            "level": "adain"
+        },
+        "Stadium": {
+            "weight": "dora4",
+            "seed": 42,
+            "level": "a"
+        },
+        "Boat": {
+            "weight": "dora4",
+            "seed": 1234,
+            "level": "raw"
+        },
+        "Fox": {
+            "weight": "dora4",
+            "seed": 2048,
+            "level": "raw"
+        },
+        "Snow": {
+            "weight": "oft8",
+            "seed": 5110,
+            "level": "raw"
+        },
+        "Train": {
+            "weight": "dora4",
+            "seed": 42,
+            "level": "adain"
+        },
+        "Grass": {
+            "weight": "oft16",
+            "seed": 1234,
+            "level": "adain"
+        },
+        "Glasses": {
+            "weight": "dora4",
+            "seed": 1234,
+            "level": "raw"
+        },
+        "Computer": {
+            "weight": "oft16",
+            "seed": 42,
+            "level": "raw"
+        },
+        "Cloud": {
+            "weight": "oft16",
+            "seed": 42,
+            "level": "raw"
+        },
+        "Sunglasses": {
+            "weight": "dora4",
+            "seed": 42,
+            "level": "raw"
+        },
+        "Spoon": {
+            "weight": "dora8",
+            "seed": 2048,
+            "level": "raw"
+        },
+        "Sunflower": {
+            "weight": "oft8",
+            "seed": 5110,
+            "level": "a"
+        },
+        "Pineapple": {
+            "weight": "dora8",
+            "seed": 42,
+            "level": "raw"
+        },
+        "Juice": {
+            "weight": "dora4",
+            "seed": 2048,
+            "level": "raw"
+        },
+        "Park": {
+            "weight": "oft8",
+            "seed": 2048,
+            "level": "raw"
+        }
+    },
+    "02": {
+        "Garage": {
+            "weight": "dora4",
+            "seed": 1234,
+            "level": "adain"
+        },
+        "Statue": {
+            "weight": "oft16",
+            "seed": 2048,
+            "level": "adain"
+        },
+        "Lion": {
+            "weight": "oft16",
+            "seed": 2048,
+            "level": "a"
+        },
+        "Desk": {
+            "weight": "oft16",
+            "seed": 42,
+            "level": "adain"
+        },
+        "Greenhouse": {
+            "weight": "dora4",
+            "seed": 2048,
+            "level": "adain"
+        },
+        "Playground": {
+            "weight": "oft16",
+            "seed": 42,
+            "level": "adain"
+        },
+        "Cucumber": {
+            "weight": "oft16",
+            "seed": 5110,
+            "level": "raw"
+        },
+        "Market": {
+            "weight": "oft16",
+            "seed": 5110,
+            "level": "adain"
+        },
+        "Zebra": {
+            "weight": "oft8",
+            "seed": 1234,
+            "level": "adain"
+        },
+        "Grass": {
+            "weight": "oft8",
+            "seed": 5110,
+            "level": "raw"
+        },
+        "Pizza": {
+            "weight": "oft8",
+            "seed": 5110,
+            "level": "raw"
+        },
+        "Scarf": {
+            "weight": "dora8",
+            "seed": 5110,
+            "level": "adain"
+        },
+        "Hospital": {
+            "weight": "dora8",
+            "seed": 5110,
+            "level": "raw"
+        },
+        "Radio": {
+            "weight": "oft16",
+            "seed": 5110,
+            "level": "adain"
+        },
+        "Duck": {
+            "weight": "oft8",
+            "seed": 2048,
+            "level": "adain"
+        },
+        "Ball": {
+            "weight": "dora4",
+            "seed": 42,
+            "level": "a"
+        },
+        "Scissors": {
+            "weight": "oft8",
+            "seed": 42,
+            "level": "raw"
+        },
+        "Eagle": {
+            "weight": "oft16",
+            "seed": 42,
+            "level": "a"
+        },
+        "Shoes": {
+            "weight": "dora8",
+            "seed": 42,
+            "level": "adain"
+        },
+        "Theatre": {
+            "weight": "oft8",
+            "seed": 42,
+            "level": "adain"
+        },
+        "Pineapple": {
+            "weight": "oft8",
+            "seed": 42,
+            "level": "adain"
+        },
+        "Fork": {
+            "weight": "oft8",
+            "seed": 2048,
+            "level": "raw"
+        },
+        "Blanket": {
+            "weight": "dora8",
+            "seed": 42,
+            "level": "adain"
+        },
+        "Coffee": {
+            "weight": "dora8",
+            "seed": 1234,
+            "level": "adain"
+        },
+        "Clock": {
+            "weight": "oft8",
+            "seed": 2048,
+            "level": "adain"
+        }
+    },
+    "03": {
+        "Monkey": {
+            "weight": "oft8",
+            "seed": 2048,
+            "level": "adain"
+        },
+        "Notebook": {
+            "weight": "dora8",
+            "seed": 2048,
+            "level": "a"
+        },
+        "Cinema": {
+            "weight": "oft16",
+            "seed": 42,
+            "level": "adain"
+        },
+        "Bread": {
+            "weight": "dora8",
+            "seed": 1234,
+            "level": "a"
+        },
+        "Shop": {
+            "weight": "oft16",
+            "seed": 2048,
+            "level": "a"
+        },
+        "Lavender": {
+            "weight": "oft16",
+            "seed": 5110,
+            "level": "a"
+        },
+        "Painting": {
+            "weight": "oft16",
+            "seed": 5110,
+            "level": "adain"
+        },
+        "Museum": {
+            "weight": "dora4",
+            "seed": 1234,
+            "level": "adain"
+        },
+        "Pencil": {
+            "weight": "dora8",
+            "seed": 42,
+            "level": "a"
+        },
+        "Factory": {
+            "weight": "dora8",
+            "seed": 2048,
+            "level": "raw"
+        },
+        "Cucumber": {
+            "weight": "oft8",
+            "seed": 42,
+            "level": "a"
+        },
+        "Port": {
+            "weight": "oft16",
+            "seed": 1234,
+            "level": "a"
+        },
+        "Road": {
+            "weight": "dora8",
+            "seed": 1234,
+            "level": "a"
+        },
+        "Barn": {
+            "weight": "dora8",
+            "seed": 1234,
+            "level": "a"
+        },
+        "River": {
+            "weight": "dora8",
+            "seed": 2048,
+            "level": "a"
+        },
+        "Canyon": {
+            "weight": "oft16",
+            "seed": 2048,
+            "level": "a"
+        },
+        "Parrot": {
+            "weight": "oft8",
+            "seed": 1234,
+            "level": "adain"
+        },
+        "Glasses": {
+            "weight": "oft16",
+            "seed": 2048,
+            "level": "adain"
+        },
+        "Dolphin": {
+            "weight": "oft16",
+            "seed": 5110,
+            "level": "adain"
+        },
+        "Suitcase": {
+            "weight": "oft16",
+            "seed": 2048,
+            "level": "a"
+        },
+        "Peach": {
+            "weight": "oft16",
+            "seed": 42,
+            "level": "a"
+        },
+        "Strawberry": {
+            "weight": "oft16",
+            "seed": 2048,
+            "level": "a"
+        },
+        "Hat": {
+            "weight": "dora8",
+            "seed": 1234,
+            "level": "a"
+        },
+        "Library": {
+            "weight": "oft16",
+            "seed": 2048,
+            "level": "a"
+        },
+        "Key": {
+            "weight": "dora4",
+            "seed": 42,
+            "level": "adain"
+        }
+    },
+    "04": {
+        "Peacock": {
+            "weight": "dora8",
+            "seed": 7702,
+            "level": "adain"
+        },
+        "Volcano": {
+            "weight": "oft16",
+            "seed": 9998,
+            "level": "adain"
+        },
+        "Pineapple": {
+            "weight": "dora8",
+            "seed": 1234,
+            "level": "adain"
+        },
+        "Computer": {
+            "weight": "oft16",
+            "seed": 5110,
+            "level": "adain"
+        },
+        "Chocolate": {
+            "weight": "oft16",
+            "seed": 2048,
+            "level": "raw"
+        },
+        "Painting": {
+            "weight": "oft8",
+            "seed": 3344,
+            "level": "a"
+        },
+        "Seed": {
+            "weight": "oft8",
+            "seed": 42,
+            "level": "adain"
+        },
+        "Orange": {
+            "weight": "dora4",
+            "seed": 42,
+            "level": "adain"
+        },
+        "Ship": {
+            "weight": "oft8",
+            "seed": 42,
+            "level": "adain"
+        },
+        "Shelf": {
+            "weight": "oft16",
+            "seed": 2048,
+            "level": "adain"
+        },
+        "Tulip": {
+            "weight": "dora4",
+            "seed": 42,
+            "level": "adain"
+        },
+        "Castle": {
+            "weight": "dora8",
+            "seed": 1234,
+            "level": "a"
+        },
+        "Dress": {
+            "weight": "oft8",
+            "seed": 42,
+            "level": "adain"
+        },
+        "Coat": {
+            "weight": "oft8",
+            "seed": 8848,
+            "level": "adain"
+        },
+        "Cherry": {
+            "weight": "dora8",
+            "seed": 9998,
+            "level": "raw"
+        },
+        "Panda": {
+            "weight": "dora8",
+            "seed": 1234,
+            "level": "a"
+        },
+        "Tomato": {
+            "weight": "oft16",
+            "seed": 2048,
+            "level": "adain"
+        },
+        "Bag": {
+            "weight": "dora8",
+            "seed": 1234,
+            "level": "a"
+        },
+        "Duck": {
+            "weight": "oft8",
+            "seed": 7702,
+            "level": "adain"
+        },
+        "Workshop": {
+            "weight": "oft16",
+            "seed": 5110,
+            "level": "adain"
+        },
+        "Book": {
+            "weight": "dora4",
+            "seed": 42,
+            "level": "adain"
+        },
+        "Apple": {
+            "weight": "oft8",
+            "seed": 42,
+            "level": "a"
+        },
+        "Gate": {
+            "weight": "dora4",
+            "seed": 9998,
+            "level": "adain"
+        },
+        "Greenhouse": {
+            "weight": "oft8",
+            "seed": 1234,
+            "level": "adain"
+        },
+        "Lamp": {
+            "weight": "dora8",
+            "seed": 1234,
+            "level": "adain"
+        }
+    },
+    "05": {
+        "Zoo": {
+            "weight": "oft8",
+            "seed": 42,
+            "level": "a"
+        },
+        "Swan": {
+            "weight": "oft8",
+            "seed": 8848,
+            "level": "raw"
+        },
+        "Octopus": {
+            "weight": "oft8",
+            "seed": 8848,
+            "level": "raw"
+        },
+        "Ocean": {
+            "weight": "dora8",
+            "seed": 2048,
+            "level": "adain"
+        },
+        "Cup": {
+            "weight": "oft8",
+            "seed": 8848,
+            "level": "raw"
+        },
+        "Rabbit": {
+            "weight": "dora8",
+            "seed": 1234,
+            "level": "raw"
+        },
+        "Bag": {
+            "weight": "dora8",
+            "seed": 5110,
+            "level": "adain"
+        },
+        "Coffee": {
+            "weight": "oft8",
+            "seed": 5110,
+            "level": "raw"
+        },
+        "Hospital": {
+            "weight": "dora8",
+            "seed": 5110,
+            "level": "raw"
+        },
+        "Key": {
+            "weight": "oft8",
+            "seed": 8848,
+            "level": "adain"
+        },
+        "Tomato": {
+            "weight": "dora8",
+            "seed": 8848,
+            "level": "raw"
+        },
+        "Cow": {
+            "weight": "oft8",
+            "seed": 9998,
+            "level": "raw"
+        },
+        "Sushi": {
+            "weight": "oft8",
+            "seed": 9998,
+            "level": "raw"
+        },
+        "Aquarium": {
+            "weight": "dora8",
+            "seed": 9998,
+            "level": "adain"
+        },
+        "Valley": {
+            "weight": "oft8",
+            "seed": 2048,
+            "level": "a"
+        },
+        "Notebook": {
+            "weight": "oft16",
+            "seed": 5110,
+            "level": "raw"
+        },
+        "Bear": {
+            "weight": "dora8",
+            "seed": 9998,
+            "level": "adain"
+        },
+        "Deer": {
+            "weight": "dora8",
+            "seed": 1234,
+            "level": "a"
+        },
+        "Belt": {
+            "weight": "dora8",
+            "seed": 8848,
+            "level": "adain"
+        },
+        "Beach": {
+            "weight": "dora4",
+            "seed": 2048,
+            "level": "raw"
+        },
+        "Park": {
+            "weight": "oft8",
+            "seed": 5110,
+            "level": "raw"
+        },
+        "Tulip": {
+            "weight": "dora8",
+            "seed": 9998,
+            "level": "raw"
+        },
+        "Plate": {
+            "weight": "dora8",
+            "seed": 1234,
+            "level": "adain"
+        },
+        "Television": {
+            "weight": "dora8",
+            "seed": 1234,
+            "level": "adain"
+        },
+        "Orange": {
+            "weight": "dora8",
+            "seed": 1234,
+            "level": "raw"
+        }
+    },
+    "06": {
+        "Airport": {
+            "weight": "oft16",
+            "seed": 5110,
+            "level": "raw"
+        },
+        "Snow": {
+            "weight": "oft8",
+            "seed": 9998,
+            "level": "raw"
+        },
+        "Market": {
+            "weight": "oft8",
+            "seed": 42,
+            "level": "adain"
+        },
+        "Painting": {
+            "weight": "oft16",
+            "seed": 5110,
+            "level": "adain"
+        },
+        "Hat": {
+            "weight": "dora8",
+            "seed": 1234,
+            "level": "adain"
+        },
+        "Cup": {
+            "weight": "oft16",
+            "seed": 9998,
+            "level": "adain"
+        },
+        "House": {
+            "weight": "dora8",
+            "seed": 8848,
+            "level": "adain"
+        },
+        "Branch": {
+            "weight": "oft8",
+            "seed": 9998,
+            "level": "raw"
+        },
+        "Mall": {
+            "weight": "dora8",
+            "seed": 1234,
+            "level": "adain"
+        },
+        "River": {
+            "weight": "oft16",
+            "seed": 3344,
+            "level": "raw"
+        },
+        "Dog": {
+            "weight": "dora8",
+            "seed": 1234,
+            "level": "a"
+        },
+        "Duck": {
+            "weight": "dora4",
+            "seed": 1234,
+            "level": "adain"
+        },
+        "Restaurant": {
+            "weight": "dora8",
+            "seed": 8848,
+            "level": "adain"
+        },
+        "Cafe": {
+            "weight": "oft8",
+            "seed": 5060,
+            "level": "adain"
+        },
+        "Ice cream": {
+            "weight": "dora4",
+            "seed": 9998,
+            "level": "raw"
+        },
+        "Library": {
+            "weight": "oft16",
+            "seed": 9998,
+            "level": "adain"
+        },
+        "Onion": {
+            "weight": "dora8",
+            "seed": 9998,
+            "level": "raw"
+        },
+        "Coffee": {
+            "weight": "oft16",
+            "seed": 1234,
+            "level": "adain"
+        },
+        "Peach": {
+            "weight": "oft16",
+            "seed": 1234,
+            "level": "adain"
+        },
+        "Vase": {
+            "weight": "dora8",
+            "seed": 8848,
+            "level": "adain"
+        },
+        "Swan": {
+            "weight": "dora8",
+            "seed": 5060,
+            "level": "raw"
+        },
+        "Shelf": {
+            "weight": "oft8",
+            "seed": 8848,
+            "level": "adain"
+        },
+        "Stadium": {
+            "weight": "dora4",
+            "seed": 8848,
+            "level": "adain"
+        },
+        "Fox": {
+            "weight": "oft8",
+            "seed": 2048,
+            "level": "adain"
+        },
+        "Barn": {
+            "weight": "oft8",
+            "seed": 42,
+            "level": "adain"
+        }
+    },
+    "07": {
+        "Garage": {
+            "weight": "oft16",
+            "seed": 42,
+            "level": "adain"
+        },
+        "Market": {
+            "weight": "oft16",
+            "seed": 1234,
+            "level": "adain"
+        },
+        "Bracelet": {
+            "weight": "dora8",
+            "seed": 2048,
+            "level": "adain"
+        },
+        "Skateboard": {
+            "weight": "dora4",
+            "seed": 1234,
+            "level": "raw"
+        },
+        "Swan": {
+            "weight": "dora8",
+            "seed": 1234,
+            "level": "a"
+        },
+        "Giraffe": {
+            "weight": "oft8",
+            "seed": 5110,
+            "level": "a"
+        },
+        "Beach": {
+            "weight": "oft16",
+            "seed": 1234,
+            "level": "raw"
+        },
+        "Desert": {
+            "weight": "oft16",
+            "seed": 2048,
+            "level": "a"
+        },
+        "Road": {
+            "weight": "dora8",
+            "seed": 1234,
+            "level": "raw"
+        },
+        "Eagle": {
+            "weight": "dora8",
+            "seed": 1234,
+            "level": "a"
+        },
+        "Mango": {
+            "weight": "oft16",
+            "seed": 1234,
+            "level": "a"
+        },
+        "Pool": {
+            "weight": "dora8",
+            "seed": 5110,
+            "level": "raw"
+        },
+        "Towel": {
+            "weight": "dora4",
+            "seed": 5110,
+            "level": "raw"
+        },
+        "Camera": {
+            "weight": "dora8",
+            "seed": 5110,
+            "level": "adain"
+        },
+        "Sun": {
+            "weight": "dora4",
+            "seed": 5110,
+            "level": "adain"
+        },
+        "Brush": {
+            "weight": "dora8",
+            "seed": 1234,
+            "level": "a"
+        },
+        "Hospital": {
+            "weight": "oft8",
+            "seed": 2048,
+            "level": "raw"
+        },
+        "Orange": {
+            "weight": "dora8",
+            "seed": 2048,
+            "level": "adain"
+        },
+        "Owl": {
+            "weight": "dora4",
+            "seed": 1234,
+            "level": "raw"
+        },
+        "Branch": {
+            "weight": "dora8",
+            "seed": 2048,
+            "level": "adain"
+        },
+        "Banana": {
+            "weight": "dora4",
+            "seed": 2048,
+            "level": "raw"
+        },
+        "Cow": {
+            "weight": "oft16",
+            "seed": 1234,
+            "level": "a"
+        },
+        "Sushi": {
+            "weight": "dora8",
+            "seed": 42,
+            "level": "adain"
+        },
+        "Bamboo": {
+            "weight": "oft16",
+            "seed": 1234,
+            "level": "a"
+        },
+        "Curtain": {
+            "weight": "dora4",
+            "seed": 2048,
+            "level": "raw"
+        }
+    },
+    "08": {
+        "Pool": {
+            "weight": "dora4",
+            "seed": 42,
+            "level": "adain"
+        },
+        "Computer": {
+            "weight": "oft16",
+            "seed": 42,
+            "level": "raw"
+        },
+        "Windmill": {
+            "weight": "oft8",
+            "seed": 2048,
+            "level": "adain"
+        },
+        "Cow": {
+            "weight": "oft16",
+            "seed": 1234,
+            "level": "adain"
+        },
+        "Key": {
+            "weight": "dora4",
+            "seed": 5110,
+            "level": "adain"
+        },
+        "Swan": {
+            "weight": "oft8",
+            "seed": 1234,
+            "level": "adain"
+        },
+        "Bus": {
+            "weight": "oft8",
+            "seed": 42,
+            "level": "raw"
+        },
+        "Sand": {
+            "weight": "dora8",
+            "seed": 1234,
+            "level": "adain"
+        },
+        "Desk": {
+            "weight": "dora4",
+            "seed": 42,
+            "level": "a"
+        },
+        "Pencil": {
+            "weight": "oft8",
+            "seed": 1234,
+            "level": "adain"
+        },
+        "Cheese": {
+            "weight": "dora4",
+            "seed": 42,
+            "level": "adain"
+        },
+        "Chocolate": {
+            "weight": "oft16",
+            "seed": 1234,
+            "level": "adain"
+        },
+        "Tiger": {
+            "weight": "oft8",
+            "seed": 5110,
+            "level": "raw"
+        },
+        "Tulip": {
+            "weight": "dora8",
+            "seed": 42,
+            "level": "adain"
+        },
+        "Water": {
+            "weight": "dora8",
+            "seed": 42,
+            "level": "adain"
+        },
+        "Lavender": {
+            "weight": "dora4",
+            "seed": 5110,
+            "level": "adain"
+        },
+        "Banana": {
+            "weight": "dora4",
+            "seed": 2048,
+            "level": "adain"
+        },
+        "Medicine": {
+            "weight": "oft16",
+            "seed": 2048,
+            "level": "adain"
+        },
+        "Temple": {
+            "weight": "dora8",
+            "seed": 42,
+            "level": "adain"
+        },
+        "Bridge": {
+            "weight": "dora4",
+            "seed": 2048,
+            "level": "adain"
+        },
+        "Milk": {
+            "weight": "dora8",
+            "seed": 2048,
+            "level": "adain"
+        },
+        "Plate": {
+            "weight": "dora4",
+            "seed": 42,
+            "level": "adain"
+        },
+        "Bottle": {
+            "weight": "dora4",
+            "seed": 42,
+            "level": "adain"
+        },
+        "Dolphin": {
+            "weight": "dora8",
+            "seed": 2048,
+            "level": "adain"
+        },
+        "Cloud": {
+            "weight": "dora8",
+            "seed": 1234,
+            "level": "adain"
+        }
+    },
+    "09": {
+        "Tower": {
+            "weight": "oft8",
+            "seed": 1234,
+            "level": "raw"
+        },
+        "Museum": {
+            "weight": "oft8",
+            "seed": 2048,
+            "level": "adain"
+        },
+        "River": {
+            "weight": "dora4",
+            "seed": 42,
+            "level": "adain"
+        },
+        "Water": {
+            "weight": "dora4",
+            "seed": 5110,
+            "level": "raw"
+        },
+        "Station": {
+            "weight": "oft8",
+            "seed": 2048,
+            "level": "adain"
+        },
+        "Television": {
+            "weight": "oft8",
+            "seed": 42,
+            "level": "adain"
+        },
+        "Mango": {
+            "weight": "dora4",
+            "seed": 5110,
+            "level": "raw"
+        },
+        "Coat": {
+            "weight": "oft8",
+            "seed": 1234,
+            "level": "raw"
+        },
+        "Cherry": {
+            "weight": "dora4",
+            "seed": 5110,
+            "level": "raw"
+        },
+        "Glasses": {
+            "weight": "oft8",
+            "seed": 1234,
+            "level": "raw"
+        },
+        "Ball": {
+            "weight": "oft8",
+            "seed": 1234,
+            "level": "raw"
+        },
+        "Road": {
+            "weight": "dora4",
+            "seed": 1234,
+            "level": "adain"
+        },
+        "Cloud": {
+            "weight": "oft8",
+            "seed": 5110,
+            "level": "raw"
+        },
+        "Computer": {
+            "weight": "dora4",
+            "seed": 1234,
+            "level": "raw"
+        },
+        "Carrot": {
+            "weight": "dora4",
+            "seed": 1234,
+            "level": "raw"
+        },
+        "Onion": {
+            "weight": "oft8",
+            "seed": 2048,
+            "level": "raw"
+        },
+        "Phone": {
+            "weight": "dora8",
+            "seed": 1234,
+            "level": "raw"
+        },
+        "Island": {
+            "weight": "dora4",
+            "seed": 42,
+            "level": "adain"
+        },
+        "Earrings": {
+            "weight": "dora8",
+            "seed": 1234,
+            "level": "raw"
+        },
+        "Panda": {
+            "weight": "oft16",
+            "seed": 1234,
+            "level": "raw"
+        },
+        "Lettuce": {
+            "weight": "dora4",
+            "seed": 2048,
+            "level": "raw"
+        },
+        "Rabbit": {
+            "weight": "dora8",
+            "seed": 42,
+            "level": "raw"
+        },
+        "Greenhouse": {
+            "weight": "oft8",
+            "seed": 5110,
+            "level": "adain"
+        },
+        "House": {
+            "weight": "oft8",
+            "seed": 42,
+            "level": "adain"
+        },
+        "Key": {
+            "weight": "oft8",
+            "seed": 42,
+            "level": "raw"
+        }
+    },
+    "10": {
+        "Station": {
+            "weight": "oft16",
+            "seed": 42,
+            "level": "a"
+        },
+        "Building": {
+            "weight": "dora8",
+            "seed": 1234,
+            "level": "raw"
+        },
+        "Grapes": {
+            "weight": "oft16",
+            "seed": 1234,
+            "level": "a"
+        },
+        "Bee": {
+            "weight": "oft8",
+            "seed": 42,
+            "level": "a"
+        },
+        "Desert": {
+            "weight": "oft16",
+            "seed": 2048,
+            "level": "a"
+        },
+        "Monkey": {
+            "weight": "oft16",
+            "seed": 42,
+            "level": "a"
+        },
+        "Fox": {
+            "weight": "oft8",
+            "seed": 2048,
+            "level": "a"
+        },
+        "Pants": {
+            "weight": "oft16",
+            "seed": 2048,
+            "level": "a"
+        },
+        "Chocolate": {
+            "weight": "oft16",
+            "seed": 5110,
+            "level": "a"
+        },
+        "Watch": {
+            "weight": "oft16",
+            "seed": 5110,
+            "level": "a"
+        },
+        "Rabbit": {
+            "weight": "oft8",
+            "seed": 42,
+            "level": "a"
+        },
+        "Medicine": {
+            "weight": "oft16",
+            "seed": 2048,
+            "level": "a"
+        },
+        "Skateboard": {
+            "weight": "oft16",
+            "seed": 5110,
+            "level": "a"
+        },
+        "Eagle": {
+            "weight": "dora4",
+            "seed": 1234,
+            "level": "a"
+        },
+        "Rug": {
+            "weight": "dora8",
+            "seed": 1234,
+            "level": "raw"
+        },
+        "Glasses": {
+            "weight": "dora4",
+            "seed": 2048,
+            "level": "a"
+        },
+        "Moon": {
+            "weight": "oft16",
+            "seed": 1234,
+            "level": "a"
+        },
+        "Umbrella": {
+            "weight": "oft16",
+            "seed": 1234,
+            "level": "a"
+        },
+        "Mirror": {
+            "weight": "dora8",
+            "seed": 1234,
+            "level": "a"
+        },
+        "Pool": {
+            "weight": "oft8",
+            "seed": 1234,
+            "level": "adain"
+        },
+        "Shop": {
+            "weight": "oft16",
+            "seed": 1234,
+            "level": "a"
+        },
+        "Burger": {
+            "weight": "oft8",
+            "seed": 42,
+            "level": "raw"
+        },
+        "Necklace": {
+            "weight": "oft8",
+            "seed": 5110,
+            "level": "adain"
+        },
+        "Panda": {
+            "weight": "oft8",
+            "seed": 2048,
+            "level": "a"
+        },
+        "Sunflower": {
+            "weight": "oft16",
+            "seed": 42,
+            "level": "a"
+        }
+    },
+    "11": {
+        "Glove": {
+            "weight": "oft16",
+            "seed": 1234,
+            "level": "a"
+        },
+        "Burger": {
+            "weight": "oft16",
+            "seed": 2048,
+            "level": "a"
+        },
+        "Hat": {
+            "weight": "oft8",
+            "seed": 5110,
+            "level": "a"
+        },
+        "Star": {
+            "weight": "oft8",
+            "seed": 5110,
+            "level": "a"
+        },
+        "Bottle": {
+            "weight": "oft8",
+            "seed": 5110,
+            "level": "a"
+        },
+        "Port": {
+            "weight": "dora8",
+            "seed": 1234,
+            "level": "a"
+        },
+        "Sushi": {
+            "weight": "dora4",
+            "seed": 42,
+            "level": "a"
+        },
+        "Swan": {
+            "weight": "oft8",
+            "seed": 2048,
+            "level": "a"
+        },
+        "Kangaroo": {
+            "weight": "dora4",
+            "seed": 5110,
+            "level": "a"
+        },
+        "Canyon": {
+            "weight": "oft16",
+            "seed": 2048,
+            "level": "a"
+        },
+        "Smoke": {
+            "weight": "oft16",
+            "seed": 5110,
+            "level": "adain"
+        },
+        "Fork": {
+            "weight": "oft8",
+            "seed": 5110,
+            "level": "a"
+        },
+        "Cheese": {
+            "weight": "dora4",
+            "seed": 42,
+            "level": "a"
+        },
+        "Station": {
+            "weight": "dora4",
+            "seed": 5110,
+            "level": "raw"
+        },
+        "Cat": {
+            "weight": "dora4",
+            "seed": 5110,
+            "level": "a"
+        },
+        "Mall": {
+            "weight": "oft16",
+            "seed": 5110,
+            "level": "a"
+        },
+        "Pool": {
+            "weight": "oft8",
+            "seed": 5110,
+            "level": "raw"
+        },
+        "Pizza": {
+            "weight": "dora4",
+            "seed": 5110,
+            "level": "a"
+        },
+        "Sunglasses": {
+            "weight": "oft16",
+            "seed": 42,
+            "level": "a"
+        },
+        "Gallery": {
+            "weight": "dora8",
+            "seed": 1234,
+            "level": "a"
+        },
+        "Cup": {
+            "weight": "oft8",
+            "seed": 2048,
+            "level": "a"
+        },
+        "Fence": {
+            "weight": "dora8",
+            "seed": 1234,
+            "level": "a"
+        },
+        "Lighthouse": {
+            "weight": "dora8",
+            "seed": 42,
+            "level": "a"
+        },
+        "Car": {
+            "weight": "dora8",
+            "seed": 1234,
+            "level": "a"
+        },
+        "Hotel": {
+            "weight": "oft16",
+            "seed": 5110,
+            "level": "a"
+        }
+    },
+    "12": {
+        "Statue": {
+            "weight": "oft16",
+            "seed": 1234,
+            "level": "a"
+        },
+        "Rock": {
+            "weight": "dora4",
+            "seed": 2048,
+            "level": "a"
+        },
+        "Potato": {
+            "weight": "oft16",
+            "seed": 2048,
+            "level": "a"
+        },
+        "Pencil": {
+            "weight": "oft8",
+            "seed": 5110,
+            "level": "raw"
+        },
+        "Aquarium": {
+            "weight": "oft16",
+            "seed": 42,
+            "level": "raw"
+        },
+        "Owl": {
+            "weight": "oft16",
+            "seed": 5110,
+            "level": "a"
+        },
+        "Lettuce": {
+            "weight": "dora4",
+            "seed": 42,
+            "level": "a"
+        },
+        "Farm": {
+            "weight": "oft16",
+            "seed": 2048,
+            "level": "raw"
+        },
+        "Falcon": {
+            "weight": "oft16",
+            "seed": 1234,
+            "level": "a"
+        },
+        "Pillow": {
+            "weight": "oft16",
+            "seed": 5110,
+            "level": "a"
+        },
+        "Wallet": {
+            "weight": "dora8",
+            "seed": 5110,
+            "level": "adain"
+        },
+        "Tomato": {
+            "weight": "oft16",
+            "seed": 42,
+            "level": "a"
+        },
+        "Milk": {
+            "weight": "oft16",
+            "seed": 2048,
+            "level": "raw"
+        },
+        "Soda": {
+            "weight": "oft16",
+            "seed": 2048,
+            "level": "raw"
+        },
+        "Studio": {
+            "weight": "oft16",
+            "seed": 42,
+            "level": "a"
+        },
+        "Grass": {
+            "weight": "dora4",
+            "seed": 1234,
+            "level": "a"
+        },
+        "Sushi": {
+            "weight": "oft16",
+            "seed": 42,
+            "level": "a"
+        },
+        "Bear": {
+            "weight": "oft16",
+            "seed": 2048,
+            "level": "a"
+        },
+        "Belt": {
+            "weight": "oft16",
+            "seed": 2048,
+            "level": "a"
+        },
+        "Brush": {
+            "weight": "oft16",
+            "seed": 5110,
+            "level": "raw"
+        },
+        "Desk": {
+            "weight": "dora8",
+            "seed": 5110,
+            "level": "adain"
+        },
+        "Camera": {
+            "weight": "oft16",
+            "seed": 42,
+            "level": "adain"
+        },
+        "Rocket": {
+            "weight": "oft16",
+            "seed": 1234,
+            "level": "raw"
+        },
+        "Lobster": {
+            "weight": "oft16",
+            "seed": 2048,
+            "level": "a"
+        },
+        "Watermelon": {
+            "weight": "oft16",
+            "seed": 42,
+            "level": "a"
+        }
+    },
+    "13": {
+        "Cow": {
+            "weight": "oft8",
+            "seed": 9998,
+            "level": "adain"
+        },
+        "Bed": {
+            "weight": "oft16",
+            "seed": 5110,
+            "level": "adain"
+        },
+        "Dress": {
+            "weight": "oft16",
+            "seed": 9998,
+            "level": "adain"
+        },
+        "Strawberry": {
+            "weight": "dora8",
+            "seed": 1234,
+            "level": "raw"
+        },
+        "Octopus": {
+            "weight": "oft8",
+            "seed": 1234,
+            "level": "a"
+        },
+        "Juice": {
+            "weight": "oft8",
+            "seed": 9998,
+            "level": "adain"
+        },
+        "Pool": {
+            "weight": "dora4",
+            "seed": 3344,
+            "level": "raw"
+        },
+        "Rose": {
+            "weight": "oft8",
+            "seed": 2048,
+            "level": "a"
+        },
+        "Ship": {
+            "weight": "oft16",
+            "seed": 2048,
+            "level": "a"
+        },
+        "Desk": {
+            "weight": "dora4",
+            "seed": 3344,
+            "level": "raw"
+        },
+        "Star": {
+            "weight": "oft8",
+            "seed": 1234,
+            "level": "a"
+        },
+        "Park": {
+            "weight": "oft16",
+            "seed": 5110,
+            "level": "raw"
+        },
+        "Zoo": {
+            "weight": "dora4",
+            "seed": 8848,
+            "level": "raw"
+        },
+        "Seed": {
+            "weight": "oft16",
+            "seed": 42,
+            "level": "a"
+        },
+        "Banana": {
+            "weight": "oft16",
+            "seed": 9998,
+            "level": "adain"
+        },
+        "Elephant": {
+            "weight": "oft16",
+            "seed": 42,
+            "level": "a"
+        },
+        "Umbrella": {
+            "weight": "oft8",
+            "seed": 1234,
+            "level": "a"
+        },
+        "Shoes": {
+            "weight": "dora4",
+            "seed": 1234,
+            "level": "raw"
+        },
+        "Plate": {
+            "weight": "dora4",
+            "seed": 1234,
+            "level": "raw"
+        },
+        "Waterfall": {
+            "weight": "oft8",
+            "seed": 9998,
+            "level": "raw"
+        },
+        "Chocolate": {
+            "weight": "oft16",
+            "seed": 8848,
+            "level": "adain"
+        },
+        "Chair": {
+            "weight": "oft8",
+            "seed": 5060,
+            "level": "adain"
+        },
+        "Knife": {
+            "weight": "dora4",
+            "seed": 42,
+            "level": "raw"
+        },
+        "Fire": {
+            "weight": "dora4",
+            "seed": 5060,
+            "level": "adain"
+        },
+        "Canyon": {
+            "weight": "oft16",
+            "seed": 8848,
+            "level": "a"
+        }
+    },
+    "14": {
+        "Knife": {
+            "weight": "dora8",
+            "seed": 1234,
+            "level": "a"
+        },
+        "Cup": {
+            "weight": "oft16",
+            "seed": 8848,
+            "level": "a"
+        },
+        "Waterfall": {
+            "weight": "oft8",
+            "seed": 9998,
+            "level": "a"
+        },
+        "Park": {
+            "weight": "dora4",
+            "seed": 4132,
+            "level": "a"
+        },
+        "Hat": {
+            "weight": "oft16",
+            "seed": 9998,
+            "level": "adain"
+        },
+        "Kangaroo": {
+            "weight": "oft8",
+            "seed": 8848,
+            "level": "a"
+        },
+        "Backpack": {
+            "weight": "oft8",
+            "seed": 8848,
+            "level": "a"
+        },
+        "Bee": {
+            "weight": "oft16",
+            "seed": 1234,
+            "level": "a"
+        },
+        "Sushi": {
+            "weight": "oft16",
+            "seed": 5110,
+            "level": "raw"
+        },
+        "Hotel": {
+            "weight": "dora8",
+            "seed": 9998,
+            "level": "a"
+        },
+        "Chocolate": {
+            "weight": "dora8",
+            "seed": 8848,
+            "level": "a"
+        },
+        "Lobster": {
+            "weight": "oft16",
+            "seed": 1234,
+            "level": "a"
+        },
+        "Painting": {
+            "weight": "dora4",
+            "seed": 9998,
+            "level": "a"
+        },
+        "Island": {
+            "weight": "oft16",
+            "seed": 5110,
+            "level": "adain"
+        },
+        "Blanket": {
+            "weight": "oft8",
+            "seed": 5110,
+            "level": "a"
+        },
+        "Grass": {
+            "weight": "dora8",
+            "seed": 8848,
+            "level": "a"
+        },
+        "Zebra": {
+            "weight": "dora8",
+            "seed": 1234,
+            "level": "a"
+        },
+        "Water": {
+            "weight": "oft16",
+            "seed": 8848,
+            "level": "raw"
+        },
+        "Desk": {
+            "weight": "oft8",
+            "seed": 8848,
+            "level": "a"
+        },
+        "Fork": {
+            "weight": "oft8",
+            "seed": 8848,
+            "level": "a"
+        },
+        "Soda": {
+            "weight": "oft16",
+            "seed": 42,
+            "level": "adain"
+        },
+        "Sun": {
+            "weight": "oft16",
+            "seed": 9998,
+            "level": "a"
+        },
+        "Plate": {
+            "weight": "oft8",
+            "seed": 9998,
+            "level": "raw"
+        },
+        "Watch": {
+            "weight": "oft8",
+            "seed": 5110,
+            "level": "a"
+        },
+        "Rug": {
+            "weight": "oft16",
+            "seed": 1234,
+            "level": "adain"
+        }
+    },
+    "15": {
+        "Notebook": {
+            "weight": "oft8",
+            "seed": 5110,
+            "level": "raw"
+        },
+        "Forest": {
+            "weight": "oft16",
+            "seed": 1234,
+            "level": "adain"
+        },
+        "Mirror": {
+            "weight": "dora8",
+            "seed": 1234,
+            "level": "adain"
+        },
+        "Mall": {
+            "weight": "oft8",
+            "seed": 2048,
+            "level": "raw"
+        },
+        "Mango": {
+            "weight": "dora4",
+            "seed": 1234,
+            "level": "raw"
+        },
+        "Strawberry": {
+            "weight": "dora8",
+            "seed": 2048,
+            "level": "raw"
+        },
+        "Grapes": {
+            "weight": "oft16",
+            "seed": 1234,
+            "level": "a"
+        },
+        "Corn": {
+            "weight": "dora4",
+            "seed": 42,
+            "level": "raw"
+        },
+        "Wallet": {
+            "weight": "oft8",
+            "seed": 1234,
+            "level": "raw"
+        },
+        "Bicycle": {
+            "weight": "oft8",
+            "seed": 42,
+            "level": "raw"
+        },
+        "Watch": {
+            "weight": "oft8",
+            "seed": 2048,
+            "level": "raw"
+        },
+        "Zebra": {
+            "weight": "dora8",
+            "seed": 1234,
+            "level": "raw"
+        },
+        "Bed": {
+            "weight": "oft16",
+            "seed": 5110,
+            "level": "raw"
+        },
+        "Duck": {
+            "weight": "dora4",
+            "seed": 2048,
+            "level": "raw"
+        },
+        "Library": {
+            "weight": "oft16",
+            "seed": 1234,
+            "level": "raw"
+        },
+        "Dress": {
+            "weight": "dora4",
+            "seed": 2048,
+            "level": "adain"
+        },
+        "Owl": {
+            "weight": "dora8",
+            "seed": 2048,
+            "level": "raw"
+        },
+        "Fish": {
+            "weight": "dora4",
+            "seed": 1234,
+            "level": "raw"
+        },
+        "Kangaroo": {
+            "weight": "oft16",
+            "seed": 2048,
+            "level": "raw"
+        },
+        "Radio": {
+            "weight": "oft8",
+            "seed": 2048,
+            "level": "raw"
+        },
+        "Rock": {
+            "weight": "dora4",
+            "seed": 1234,
+            "level": "raw"
+        },
+        "Table": {
+            "weight": "dora8",
+            "seed": 5110,
+            "level": "adain"
+        },
+        "River": {
+            "weight": "dora4",
+            "seed": 42,
+            "level": "raw"
+        },
+        "Cucumber": {
+            "weight": "oft8",
+            "seed": 5110,
+            "level": "raw"
+        },
+        "Medicine": {
+            "weight": "oft8",
+            "seed": 5110,
+            "level": "adain"
+        }
+    },
+    "16": {
+        "Tiger": {
+            "weight": "oft8",
+            "seed": 5110,
+            "level": "adain"
+        },
+        "Lake": {
+            "weight": "dora4",
+            "seed": 42,
+            "level": "a"
+        },
+        "Ant": {
+            "weight": "oft8",
+            "seed": 1234,
+            "level": "a"
+        },
+        "Leaf": {
+            "weight": "dora8",
+            "seed": 2048,
+            "level": "a"
+        },
+        "Stadium": {
+            "weight": "dora4",
+            "seed": 5110,
+            "level": "a"
+        },
+        "Apple": {
+            "weight": "oft8",
+            "seed": 2048,
+            "level": "adain"
+        },
+        "Cinema": {
+            "weight": "oft8",
+            "seed": 42,
+            "level": "adain"
+        },
+        "Boat": {
+            "weight": "oft8",
+            "seed": 1234,
+            "level": "raw"
+        },
+        "Falcon": {
+            "weight": "oft8",
+            "seed": 42,
+            "level": "a"
+        },
+        "Canyon": {
+            "weight": "oft16",
+            "seed": 42,
+            "level": "a"
+        },
+        "Bracelet": {
+            "weight": "dora8",
+            "seed": 42,
+            "level": "adain"
+        },
+        "Flower": {
+            "weight": "oft8",
+            "seed": 42,
+            "level": "adain"
+        },
+        "Skateboard": {
+            "weight": "dora8",
+            "seed": 2048,
+            "level": "raw"
+        },
+        "Gate": {
+            "weight": "oft8",
+            "seed": 42,
+            "level": "a"
+        },
+        "Hospital": {
+            "weight": "oft8",
+            "seed": 1234,
+            "level": "raw"
+        },
+        "Towel": {
+            "weight": "dora8",
+            "seed": 42,
+            "level": "adain"
+        },
+        "Suitcase": {
+            "weight": "dora8",
+            "seed": 5110,
+            "level": "raw"
+        },
+        "Shed": {
+            "weight": "oft8",
+            "seed": 2048,
+            "level": "adain"
+        },
+        "Rock": {
+            "weight": "oft8",
+            "seed": 2048,
+            "level": "adain"
+        },
+        "Pants": {
+            "weight": "oft8",
+            "seed": 1234,
+            "level": "adain"
+        },
+        "Kangaroo": {
+            "weight": "oft8",
+            "seed": 1234,
+            "level": "adain"
+        },
+        "Computer": {
+            "weight": "dora8",
+            "seed": 2048,
+            "level": "raw"
+        },
+        "Sofa": {
+            "weight": "dora4",
+            "seed": 2048,
+            "level": "a"
+        },
+        "Wolf": {
+            "weight": "oft8",
+            "seed": 42,
+            "level": "adain"
+        },
+        "Bed": {
+            "weight": "oft16",
+            "seed": 1234,
+            "level": "a"
+        }
+    },
+    "17": {
+        "Falcon": {
+            "weight": "oft16",
+            "seed": 2048,
+            "level": "adain"
+        },
+        "Ring": {
+            "weight": "dora8",
+            "seed": 2048,
+            "level": "raw"
+        },
+        "Pool": {
+            "weight": "oft16",
+            "seed": 42,
+            "level": "adain"
+        },
+        "Soda": {
+            "weight": "dora8",
+            "seed": 5110,
+            "level": "raw"
+        },
+        "Mountain": {
+            "weight": "oft8",
+            "seed": 5110,
+            "level": "raw"
+        },
+        "Canyon": {
+            "weight": "oft16",
+            "seed": 2048,
+            "level": "adain"
+        },
+        "Star": {
+            "weight": "oft8",
+            "seed": 5110,
+            "level": "adain"
+        },
+        "Key": {
+            "weight": "dora8",
+            "seed": 42,
+            "level": "raw"
+        },
+        "Aquarium": {
+            "weight": "oft16",
+            "seed": 2048,
+            "level": "adain"
+        },
+        "Bottle": {
+            "weight": "dora4",
+            "seed": 5110,
+            "level": "raw"
+        },
+        "Panda": {
+            "weight": "dora8",
+            "seed": 1234,
+            "level": "a"
+        },
+        "Port": {
+            "weight": "oft16",
+            "seed": 1234,
+            "level": "adain"
+        },
+        "Sushi": {
+            "weight": "oft8",
+            "seed": 2048,
+            "level": "adain"
+        },
+        "Glasses": {
+            "weight": "oft8",
+            "seed": 5110,
+            "level": "adain"
+        },
+        "Elephant": {
+            "weight": "oft8",
+            "seed": 42,
+            "level": "adain"
+        },
+        "Rug": {
+            "weight": "oft8",
+            "seed": 5110,
+            "level": "raw"
+        },
+        "Tiger": {
+            "weight": "oft8",
+            "seed": 5110,
+            "level": "adain"
+        },
+        "Coffee": {
+            "weight": "dora4",
+            "seed": 2048,
+            "level": "raw"
+        },
+        "Volcano": {
+            "weight": "oft16",
+            "seed": 42,
+            "level": "adain"
+        },
+        "Bed": {
+            "weight": "oft16",
+            "seed": 2048,
+            "level": "raw"
+        },
+        "Factory": {
+            "weight": "dora8",
+            "seed": 5110,
+            "level": "raw"
+        },
+        "Coat": {
+            "weight": "dora8",
+            "seed": 5110,
+            "level": "adain"
+        },
+        "Barn": {
+            "weight": "oft16",
+            "seed": 5110,
+            "level": "raw"
+        },
+        "Valley": {
+            "weight": "dora8",
+            "seed": 1234,
+            "level": "raw"
+        },
+        "Milk": {
+            "weight": "oft16",
+            "seed": 5110,
+            "level": "raw"
+        }
+    },
+    "18": {
+        "Lake": {
+            "weight": "oft16",
+            "seed": 1234,
+            "level": "adain"
+        },
+        "Tower": {
+            "weight": "dora4",
+            "seed": 5110,
+            "level": "adain"
+        },
+        "Owl": {
+            "weight": "oft8",
+            "seed": 2048,
+            "level": "raw"
+        },
+        "Mango": {
+            "weight": "oft8",
+            "seed": 2048,
+            "level": "raw"
+        },
+        "Necklace": {
+            "weight": "dora4",
+            "seed": 1234,
+            "level": "raw"
+        },
+        "Tea": {
+            "weight": "dora8",
+            "seed": 2048,
+            "level": "raw"
+        },
+        "Fox": {
+            "weight": "oft8",
+            "seed": 1234,
+            "level": "raw"
+        },
+        "Garage": {
+            "weight": "dora4",
+            "seed": 42,
+            "level": "adain"
+        },
+        "Earrings": {
+            "weight": "dora4",
+            "seed": 5110,
+            "level": "raw"
+        },
+        "Brush": {
+            "weight": "dora8",
+            "seed": 5110,
+            "level": "raw"
+        },
+        "Plate": {
+            "weight": "oft8",
+            "seed": 2048,
+            "level": "adain"
+        },
+        "Computer": {
+            "weight": "dora4",
+            "seed": 42,
+            "level": "adain"
+        },
+        "Panda": {
+            "weight": "oft8",
+            "seed": 2048,
+            "level": "raw"
+        },
+        "Fence": {
+            "weight": "oft16",
+            "seed": 1234,
+            "level": "adain"
+        },
+        "Pillow": {
+            "weight": "oft8",
+            "seed": 1234,
+            "level": "raw"
+        },
+        "Scooter": {
+            "weight": "dora8",
+            "seed": 5110,
+            "level": "adain"
+        },
+        "Water": {
+            "weight": "oft8",
+            "seed": 42,
+            "level": "adain"
+        },
+        "Road": {
+            "weight": "dora8",
+            "seed": 1234,
+            "level": "adain"
+        },
+        "Office": {
+            "weight": "dora8",
+            "seed": 5110,
+            "level": "adain"
+        },
+        "Butterfly": {
+            "weight": "oft16",
+            "seed": 42,
+            "level": "adain"
+        },
+        "Park": {
+            "weight": "oft16",
+            "seed": 2048,
+            "level": "a"
+        },
+        "Bee": {
+            "weight": "oft8",
+            "seed": 1234,
+            "level": "raw"
+        },
+        "House": {
+            "weight": "oft8",
+            "seed": 42,
+            "level": "adain"
+        },
+        "Waterfall": {
+            "weight": "dora4",
+            "seed": 1234,
+            "level": "a"
+        },
+        "Windmill": {
+            "weight": "dora4",
+            "seed": 5110,
+            "level": "raw"
+        }
+    },
+    "19": {
+        "Cherry": {
+            "weight": "oft16",
+            "seed": 2048,
+            "level": "raw"
+        },
+        "Island": {
+            "weight": "oft16",
+            "seed": 2048,
+            "level": "raw"
+        },
+        "Peacock": {
+            "weight": "oft8",
+            "seed": 5110,
+            "level": "raw"
+        },
+        "Scarf": {
+            "weight": "oft8",
+            "seed": 2048,
+            "level": "a"
+        },
+        "Lettuce": {
+            "weight": "oft16",
+            "seed": 1234,
+            "level": "raw"
+        },
+        "Tree": {
+            "weight": "dora8",
+            "seed": 1234,
+            "level": "adain"
+        },
+        "Fork": {
+            "weight": "dora8",
+            "seed": 2048,
+            "level": "a"
+        },
+        "Fish": {
+            "weight": "oft8",
+            "seed": 42,
+            "level": "raw"
+        },
+        "Towel": {
+            "weight": "dora8",
+            "seed": 1234,
+            "level": "adain"
+        },
+        "Statue": {
+            "weight": "dora4",
+            "seed": 2048,
+            "level": "a"
+        },
+        "Bracelet": {
+            "weight": "oft8",
+            "seed": 2048,
+            "level": "adain"
+        },
+        "Table": {
+            "weight": "oft16",
+            "seed": 2048,
+            "level": "adain"
+        },
+        "Banana": {
+            "weight": "oft8",
+            "seed": 42,
+            "level": "raw"
+        },
+        "Sand": {
+            "weight": "oft16",
+            "seed": 1234,
+            "level": "a"
+        },
+        "Lighthouse": {
+            "weight": "oft8",
+            "seed": 5110,
+            "level": "adain"
+        },
+        "Ship": {
+            "weight": "oft16",
+            "seed": 1234,
+            "level": "raw"
+        },
+        "Gallery": {
+            "weight": "oft16",
+            "seed": 1234,
+            "level": "a"
+        },
+        "Umbrella": {
+            "weight": "oft8",
+            "seed": 42,
+            "level": "adain"
+        },
+        "Swan": {
+            "weight": "oft16",
+            "seed": 2048,
+            "level": "a"
+        },
+        "Dog": {
+            "weight": "oft8",
+            "seed": 1234,
+            "level": "adain"
+        },
+        "Windmill": {
+            "weight": "oft16",
+            "seed": 2048,
+            "level": "raw"
+        },
+        "Spoon": {
+            "weight": "oft16",
+            "seed": 2048,
+            "level": "raw"
+        },
+        "Fire": {
+            "weight": "oft16",
+            "seed": 1234,
+            "level": "adain"
+        },
+        "Tomato": {
+            "weight": "oft16",
+            "seed": 2048,
+            "level": "raw"
+        },
+        "Cup": {
+            "weight": "oft16",
+            "seed": 2048,
+            "level": "raw"
+        }
+    },
+    "20": {
+        "Plane": {
+            "weight": "dora8",
+            "seed": 8848,
+            "level": "adain"
+        },
+        "Opera": {
+            "weight": "dora8",
+            "seed": 9998,
+            "level": "adain"
+        },
+        "Bottle": {
+            "weight": "oft8",
+            "seed": 42,
+            "level": "a"
+        },
+        "Beach": {
+            "weight": "dora4",
+            "seed": 9998,
+            "level": "adain"
+        },
+        "Pants": {
+            "weight": "dora8",
+            "seed": 2048,
+            "level": "adain"
+        },
+        "Ship": {
+            "weight": "dora4",
+            "seed": 1234,
+            "level": "adain"
+        },
+        "Grass": {
+            "weight": "dora8",
+            "seed": 1234,
+            "level": "raw"
+        },
+        "Rose": {
+            "weight": "dora8",
+            "seed": 8848,
+            "level": "adain"
+        },
+        "Shoes": {
+            "weight": "oft8",
+            "seed": 42,
+            "level": "a"
+        },
+        "Computer": {
+            "weight": "oft16",
+            "seed": 8848,
+            "level": "a"
+        },
+        "Ring": {
+            "weight": "oft16",
+            "seed": 8848,
+            "level": "a"
+        },
+        "Watch": {
+            "weight": "dora8",
+            "seed": 2048,
+            "level": "raw"
+        },
+        "Rocket": {
+            "weight": "dora8",
+            "seed": 2048,
+            "level": "adain"
+        },
+        "Cat": {
+            "weight": "dora8",
+            "seed": 2048,
+            "level": "a"
+        },
+        "Volcano": {
+            "weight": "oft8",
+            "seed": 9998,
+            "level": "adain"
+        },
+        "Tiger": {
+            "weight": "dora4",
+            "seed": 42,
+            "level": "adain"
+        },
+        "Scissors": {
+            "weight": "dora8",
+            "seed": 2048,
+            "level": "raw"
+        },
+        "Zoo": {
+            "weight": "dora8",
+            "seed": 42,
+            "level": "adain"
+        },
+        "Soda": {
+            "weight": "dora8",
+            "seed": 8848,
+            "level": "adain"
+        },
+        "Fox": {
+            "weight": "dora8",
+            "seed": 8848,
+            "level": "a"
+        },
+        "Plate": {
+            "weight": "dora8",
+            "seed": 8848,
+            "level": "a"
+        },
+        "Lavender": {
+            "weight": "dora8",
+            "seed": 9998,
+            "level": "raw"
+        },
+        "Book": {
+            "weight": "dora4",
+            "seed": 9998,
+            "level": "adain"
+        },
+        "Dog": {
+            "weight": "dora8",
+            "seed": 2048,
+            "level": "adain"
+        },
+        "Bracelet": {
+            "weight": "dora8",
+            "seed": 1234,
+            "level": "adain"
+        }
+    },
+    "21": {
+        "Zebra": {
+            "weight": "dora4",
+            "seed": 42,
+            "level": "a"
+        },
+        "Flower": {
+            "weight": "oft8",
+            "seed": 2048,
+            "level": "a"
+        },
+        "Plane": {
+            "weight": "oft8",
+            "seed": 42,
+            "level": "a"
+        },
+        "Hotel": {
+            "weight": "dora4",
+            "seed": 1234,
+            "level": "a"
+        },
+        "Tea": {
+            "weight": "oft16",
+            "seed": 5110,
+            "level": "a"
+        },
+        "Airport": {
+            "weight": "oft16",
+            "seed": 1234,
+            "level": "a"
+        },
+        "Mirror": {
+            "weight": "oft16",
+            "seed": 5110,
+            "level": "a"
+        },
+        "Curtain": {
+            "weight": "dora4",
+            "seed": 42,
+            "level": "raw"
+        },
+        "Lobster": {
+            "weight": "oft16",
+            "seed": 1234,
+            "level": "a"
+        },
+        "Cafe": {
+            "weight": "oft8",
+            "seed": 1234,
+            "level": "a"
+        },
+        "Bus": {
+            "weight": "oft16",
+            "seed": 1234,
+            "level": "a"
+        },
+        "Pencil": {
+            "weight": "dora8",
+            "seed": 1234,
+            "level": "raw"
+        },
+        "Forest": {
+            "weight": "dora4",
+            "seed": 2048,
+            "level": "a"
+        },
+        "Office": {
+            "weight": "oft16",
+            "seed": 42,
+            "level": "a"
+        },
+        "Knife": {
+            "weight": "oft16",
+            "seed": 5110,
+            "level": "a"
+        },
+        "Blanket": {
+            "weight": "dora4",
+            "seed": 2048,
+            "level": "raw"
+        },
+        "Carrot": {
+            "weight": "oft8",
+            "seed": 2048,
+            "level": "raw"
+        },
+        "Duck": {
+            "weight": "dora8",
+            "seed": 2048,
+            "level": "raw"
+        },
+        "Elephant": {
+            "weight": "dora4",
+            "seed": 2048,
+            "level": "a"
+        },
+        "Pants": {
+            "weight": "dora4",
+            "seed": 1234,
+            "level": "a"
+        },
+        "Sheep": {
+            "weight": "oft16",
+            "seed": 2048,
+            "level": "a"
+        },
+        "Tree": {
+            "weight": "oft8",
+            "seed": 2048,
+            "level": "a"
+        },
+        "Laptop": {
+            "weight": "oft8",
+            "seed": 2048,
+            "level": "a"
+        },
+        "Restaurant": {
+            "weight": "oft8",
+            "seed": 2048,
+            "level": "a"
+        },
+        "Burger": {
+            "weight": "dora4",
+            "seed": 2048,
+            "level": "a"
+        }
+    },
+    "22": {
+        "House": {
+            "weight": "oft8",
+            "seed": 2048,
+            "level": "raw"
+        },
+        "Boat": {
+            "weight": "dora4",
+            "seed": 2048,
+            "level": "adain"
+        },
+        "Dog": {
+            "weight": "dora8",
+            "seed": 5110,
+            "level": "raw"
+        },
+        "Notebook": {
+            "weight": "oft8",
+            "seed": 2048,
+            "level": "adain"
+        },
+        "Eagle": {
+            "weight": "oft16",
+            "seed": 42,
+            "level": "adain"
+        },
+        "Market": {
+            "weight": "oft8",
+            "seed": 1234,
+            "level": "adain"
+        },
+        "Bag": {
+            "weight": "dora8",
+            "seed": 5110,
+            "level": "adain"
+        },
+        "Port": {
+            "weight": "dora8",
+            "seed": 42,
+            "level": "adain"
+        },
+        "Coffee": {
+            "weight": "dora8",
+            "seed": 42,
+            "level": "adain"
+        },
+        "Headphones": {
+            "weight": "oft8",
+            "seed": 2048,
+            "level": "a"
+        },
+        "Pillow": {
+            "weight": "dora4",
+            "seed": 42,
+            "level": "adain"
+        },
+        "Lobster": {
+            "weight": "dora8",
+            "seed": 1234,
+            "level": "adain"
+        },
+        "Waterfall": {
+            "weight": "oft16",
+            "seed": 5110,
+            "level": "adain"
+        },
+        "Leaf": {
+            "weight": "oft16",
+            "seed": 5110,
+            "level": "adain"
+        },
+        "Mirror": {
+            "weight": "oft8",
+            "seed": 42,
+            "level": "adain"
+        },
+        "Key": {
+            "weight": "oft8",
+            "seed": 5110,
+            "level": "a"
+        },
+        "Sofa": {
+            "weight": "dora8",
+            "seed": 1234,
+            "level": "raw"
+        },
+        "Umbrella": {
+            "weight": "oft8",
+            "seed": 42,
+            "level": "adain"
+        },
+        "Train": {
+            "weight": "oft8",
+            "seed": 42,
+            "level": "adain"
+        },
+        "Camera": {
+            "weight": "oft8",
+            "seed": 2048,
+            "level": "adain"
+        },
+        "Panda": {
+            "weight": "dora8",
+            "seed": 1234,
+            "level": "a"
+        },
+        "Beach": {
+            "weight": "oft16",
+            "seed": 2048,
+            "level": "a"
+        },
+        "Plane": {
+            "weight": "dora4",
+            "seed": 2048,
+            "level": "adain"
+        },
+        "Donkey": {
+            "weight": "oft16",
+            "seed": 5110,
+            "level": "a"
+        },
+        "Fire": {
+            "weight": "dora8",
+            "seed": 5110,
+            "level": "adain"
+        }
+    },
+    "23": {
+        "Water": {
+            "weight": "oft8",
+            "seed": 1234,
+            "level": "adain"
+        },
+        "Sunflower": {
+            "weight": "dora8",
+            "seed": 2048,
+            "level": "adain"
+        },
+        "Chair": {
+            "weight": "oft8",
+            "seed": 5110,
+            "level": "adain"
+        },
+        "Seed": {
+            "weight": "oft8",
+            "seed": 1234,
+            "level": "a"
+        },
+        "Leaf": {
+            "weight": "oft16",
+            "seed": 2048,
+            "level": "adain"
+        },
+        "School": {
+            "weight": "dora8",
+            "seed": 2048,
+            "level": "adain"
+        },
+        "Smoke": {
+            "weight": "oft8",
+            "seed": 1234,
+            "level": "raw"
+        },
+        "Desert": {
+            "weight": "oft8",
+            "seed": 5110,
+            "level": "adain"
+        },
+        "Juice": {
+            "weight": "dora8",
+            "seed": 1234,
+            "level": "adain"
+        },
+        "Apple": {
+            "weight": "oft8",
+            "seed": 5110,
+            "level": "adain"
+        },
+        "Spoon": {
+            "weight": "dora8",
+            "seed": 5110,
+            "level": "adain"
+        },
+        "Fence": {
+            "weight": "oft8",
+            "seed": 42,
+            "level": "a"
+        },
+        "Watch": {
+            "weight": "oft8",
+            "seed": 2048,
+            "level": "a"
+        },
+        "Chocolate": {
+            "weight": "dora4",
+            "seed": 2048,
+            "level": "adain"
+        },
+        "Ant": {
+            "weight": "oft8",
+            "seed": 2048,
+            "level": "adain"
+        },
+        "Potato": {
+            "weight": "oft8",
+            "seed": 5110,
+            "level": "raw"
+        },
+        "Grass": {
+            "weight": "oft16",
+            "seed": 1234,
+            "level": "adain"
+        },
+        "Monkey": {
+            "weight": "oft8",
+            "seed": 2048,
+            "level": "adain"
+        },
+        "Airport": {
+            "weight": "dora8",
+            "seed": 1234,
+            "level": "a"
+        },
+        "Elephant": {
+            "weight": "oft8",
+            "seed": 5110,
+            "level": "raw"
+        },
+        "Theatre": {
+            "weight": "dora4",
+            "seed": 5110,
+            "level": "adain"
+        },
+        "Necklace": {
+            "weight": "oft8",
+            "seed": 1234,
+            "level": "adain"
+        },
+        "Aquarium": {
+            "weight": "dora4",
+            "seed": 1234,
+            "level": "adain"
+        },
+        "Island": {
+            "weight": "oft8",
+            "seed": 2048,
+            "level": "adain"
+        },
+        "Dress": {
+            "weight": "dora8",
+            "seed": 1234,
+            "level": "adain"
+        }
+    },
+    "24": {
+        "Boat": {
+            "weight": "oft16",
+            "seed": 8848,
+            "level": "adain"
+        },
+        "Bee": {
+            "weight": "oft8",
+            "seed": 9998,
+            "level": "adain"
+        },
+        "Rug": {
+            "weight": "dora4",
+            "seed": 5060,
+            "level": "adain"
+        },
+        "Shop": {
+            "weight": "oft8",
+            "seed": 7702,
+            "level": "adain"
+        },
+        "Workshop": {
+            "weight": "oft16",
+            "seed": 42,
+            "level": "a"
+        },
+        "Chair": {
+            "weight": "dora4",
+            "seed": 42,
+            "level": "adain"
+        },
+        "Fox": {
+            "weight": "oft8",
+            "seed": 42,
+            "level": "adain"
+        },
+        "Medicine": {
+            "weight": "oft8",
+            "seed": 9998,
+            "level": "adain"
+        },
+        "Flower": {
+            "weight": "dora8",
+            "seed": 8848,
+            "level": "a"
+        },
+        "Coffee": {
+            "weight": "oft8",
+            "seed": 2048,
+            "level": "adain"
+        },
+        "Bear": {
+            "weight": "oft8",
+            "seed": 42,
+            "level": "a"
+        },
+        "Branch": {
+            "weight": "oft16",
+            "seed": 2048,
+            "level": "adain"
+        },
+        "Plate": {
+            "weight": "oft8",
+            "seed": 9998,
+            "level": "a"
+        },
+        "Brush": {
+            "weight": "dora4",
+            "seed": 42,
+            "level": "adain"
+        },
+        "Swan": {
+            "weight": "oft16",
+            "seed": 2048,
+            "level": "adain"
+        },
+        "Clock": {
+            "weight": "oft8",
+            "seed": 2048,
+            "level": "adain"
+        },
+        "Tree": {
+            "weight": "oft16",
+            "seed": 42,
+            "level": "a"
+        },
+        "Lake": {
+            "weight": "oft16",
+            "seed": 42,
+            "level": "adain"
+        },
+        "Shark": {
+            "weight": "oft8",
+            "seed": 2048,
+            "level": "adain"
+        },
+        "Painting": {
+            "weight": "oft8",
+            "seed": 5110,
+            "level": "adain"
+        },
+        "Lighthouse": {
+            "weight": "oft8",
+            "seed": 9998,
+            "level": "raw"
+        },
+        "Knife": {
+            "weight": "oft16",
+            "seed": 42,
+            "level": "adain"
+        },
+        "Owl": {
+            "weight": "dora4",
+            "seed": 8848,
+            "level": "a"
+        },
+        "Dog": {
+            "weight": "dora8",
+            "seed": 8848,
+            "level": "a"
+        },
+        "Spoon": {
+            "weight": "dora8",
+            "seed": 8848,
+            "level": "adain"
+        }
+    },
+    "25": {
+        "Statue": {
+            "weight": "dora4",
+            "seed": 8848,
+            "level": "raw"
+        },
+        "Shark": {
+            "weight": "oft8",
+            "seed": 9998,
+            "level": "raw"
+        },
+        "Ball": {
+            "weight": "dora4",
+            "seed": 9998,
+            "level": "raw"
+        },
+        "Eagle": {
+            "weight": "dora4",
+            "seed": 8848,
+            "level": "raw"
+        },
+        "Museum": {
+            "weight": "dora4",
+            "seed": 9998,
+            "level": "raw"
+        },
+        "Knife": {
+            "weight": "oft16",
+            "seed": 8848,
+            "level": "raw"
+        },
+        "Octopus": {
+            "weight": "dora4",
+            "seed": 9998,
+            "level": "a"
+        },
+        "Donkey": {
+            "weight": "oft8",
+            "seed": 8848,
+            "level": "raw"
+        },
+        "Grass": {
+            "weight": "oft8",
+            "seed": 8848,
+            "level": "raw"
+        },
+        "Scooter": {
+            "weight": "dora4",
+            "seed": 9998,
+            "level": "raw"
+        },
+        "Sunglasses": {
+            "weight": "dora8",
+            "seed": 42,
+            "level": "raw"
+        },
+        "Stadium": {
+            "weight": "oft8",
+            "seed": 42,
+            "level": "raw"
+        },
+        "Butterfly": {
+            "weight": "oft8",
+            "seed": 8848,
+            "level": "raw"
+        },
+        "Phone": {
+            "weight": "dora4",
+            "seed": 42,
+            "level": "raw"
+        },
+        "Owl": {
+            "weight": "dora8",
+            "seed": 8848,
+            "level": "raw"
+        },
+        "Airport": {
+            "weight": "oft16",
+            "seed": 1234,
+            "level": "adain"
+        },
+        "Factory": {
+            "weight": "dora4",
+            "seed": 1234,
+            "level": "raw"
+        },
+        "Rug": {
+            "weight": "dora4",
+            "seed": 9998,
+            "level": "adain"
+        },
+        "Hospital": {
+            "weight": "dora4",
+            "seed": 8848,
+            "level": "adain"
+        },
+        "Aquarium": {
+            "weight": "dora4",
+            "seed": 9998,
+            "level": "adain"
+        },
+        "Zoo": {
+            "weight": "oft16",
+            "seed": 2048,
+            "level": "raw"
+        },
+        "Port": {
+            "weight": "dora4",
+            "seed": 5110,
+            "level": "adain"
+        },
+        "Cinema": {
+            "weight": "dora4",
+            "seed": 42,
+            "level": "raw"
+        },
+        "Mountain": {
+            "weight": "oft8",
+            "seed": 1234,
+            "level": "raw"
+        },
+        "Pencil": {
+            "weight": "dora4",
+            "seed": 42,
+            "level": "raw"
+        }
+    },
+    "26": {
+        "Painting": {
+            "weight": "dora8",
+            "seed": 42,
+            "level": "a"
+        },
+        "Backpack": {
+            "weight": "dora4",
+            "seed": 5110,
+            "level": "adain"
+        },
+        "Scarf": {
+            "weight": "oft8",
+            "seed": 42,
+            "level": "a"
+        },
+        "Bag": {
+            "weight": "dora4",
+            "seed": 2048,
+            "level": "adain"
+        },
+        "Bracelet": {
+            "weight": "oft16",
+            "seed": 2048,
+            "level": "adain"
+        },
+        "Table": {
+            "weight": "oft8",
+            "seed": 1234,
+            "level": "adain"
+        },
+        "Ant": {
+            "weight": "oft16",
+            "seed": 1234,
+            "level": "adain"
+        },
+        "Hotel": {
+            "weight": "oft16",
+            "seed": 2048,
+            "level": "adain"
+        },
+        "Lettuce": {
+            "weight": "dora8",
+            "seed": 42,
+            "level": "adain"
+        },
+        "Valley": {
+            "weight": "oft16",
+            "seed": 42,
+            "level": "adain"
+        },
+        "Beach": {
+            "weight": "oft16",
+            "seed": 5110,
+            "level": "adain"
+        },
+        "Leaf": {
+            "weight": "oft16",
+            "seed": 42,
+            "level": "adain"
+        },
+        "Port": {
+            "weight": "oft16",
+            "seed": 5110,
+            "level": "adain"
+        },
+        "Fork": {
+            "weight": "dora8",
+            "seed": 1234,
+            "level": "adain"
+        },
+        "Pool": {
+            "weight": "oft16",
+            "seed": 1234,
+            "level": "adain"
+        },
+        "Cafe": {
+            "weight": "oft16",
+            "seed": 1234,
+            "level": "a"
+        },
+        "Branch": {
+            "weight": "dora4",
+            "seed": 42,
+            "level": "adain"
+        },
+        "Market": {
+            "weight": "oft16",
+            "seed": 42,
+            "level": "adain"
+        },
+        "Milk": {
+            "weight": "oft8",
+            "seed": 5110,
+            "level": "adain"
+        },
+        "Library": {
+            "weight": "oft16",
+            "seed": 1234,
+            "level": "adain"
+        },
+        "Cherry": {
+            "weight": "dora4",
+            "seed": 2048,
+            "level": "adain"
+        },
+        "Brush": {
+            "weight": "oft8",
+            "seed": 2048,
+            "level": "adain"
+        },
+        "Glasses": {
+            "weight": "oft8",
+            "seed": 1234,
+            "level": "adain"
+        },
+        "Moon": {
+            "weight": "oft16",
+            "seed": 42,
+            "level": "adain"
+        },
+        "Laptop": {
+            "weight": "dora4",
+            "seed": 1234,
+            "level": "adain"
+        }
+    },
+    "27": {
+        "Swan": {
+            "weight": "oft8",
+            "seed": 42,
+            "level": "raw"
+        },
+        "Bag": {
+            "weight": "dora4",
+            "seed": 42,
+            "level": "raw"
+        },
+        "Watch": {
+            "weight": "oft16",
+            "seed": 42,
+            "level": "raw"
+        },
+        "Sushi": {
+            "weight": "oft8",
+            "seed": 42,
+            "level": "raw"
+        },
+        "Peacock": {
+            "weight": "oft16",
+            "seed": 42,
+            "level": "raw"
+        },
+        "Television": {
+            "weight": "oft8",
+            "seed": 42,
+            "level": "raw"
+        },
+        "Burger": {
+            "weight": "dora4",
+            "seed": 5110,
+            "level": "adain"
+        },
+        "Wallet": {
+            "weight": "oft8",
+            "seed": 42,
+            "level": "raw"
+        },
+        "Table": {
+            "weight": "dora8",
+            "seed": 42,
+            "level": "raw"
+        },
+        "School": {
+            "weight": "oft16",
+            "seed": 42,
+            "level": "adain"
+        },
+        "Whale": {
+            "weight": "oft16",
+            "seed": 42,
+            "level": "adain"
+        },
+        "Cabinet": {
+            "weight": "oft16",
+            "seed": 42,
+            "level": "raw"
+        },
+        "Temple": {
+            "weight": "dora8",
+            "seed": 5110,
+            "level": "adain"
+        },
+        "Dolphin": {
+            "weight": "dora4",
+            "seed": 2048,
+            "level": "adain"
+        },
+        "Lettuce": {
+            "weight": "oft16",
+            "seed": 42,
+            "level": "adain"
+        },
+        "Camera": {
+            "weight": "oft16",
+            "seed": 42,
+            "level": "raw"
+        },
+        "Desk": {
+            "weight": "oft8",
+            "seed": 5110,
+            "level": "raw"
+        },
+        "Sheep": {
+            "weight": "oft16",
+            "seed": 5110,
+            "level": "adain"
+        },
+        "Peach": {
+            "weight": "oft16",
+            "seed": 1234,
+            "level": "adain"
+        },
+        "Waterfall": {
+            "weight": "oft8",
+            "seed": 2048,
+            "level": "adain"
+        },
+        "Ice cream": {
+            "weight": "dora4",
+            "seed": 42,
+            "level": "adain"
+        },
+        "Towel": {
+            "weight": "oft8",
+            "seed": 5110,
+            "level": "adain"
+        },
+        "Train": {
+            "weight": "oft8",
+            "seed": 42,
+            "level": "adain"
+        },
+        "Rocket": {
+            "weight": "dora4",
+            "seed": 2048,
+            "level": "adain"
+        },
+        "Forest": {
+            "weight": "oft16",
+            "seed": 1234,
+            "level": "raw"
+        }
+    }
+}

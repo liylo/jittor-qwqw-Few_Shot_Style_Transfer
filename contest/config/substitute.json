@@ -1,0 +1,175 @@
+{
+    "00": {
+        "Building": "Empire State Building",
+        "Cheese": "Wheel Cheese",
+        "Milk": "glass of Milk",
+        "Pool": "Swimming Pool",
+        "Hospital": "Building with a Red Cross",
+        "Statue": "Statue of Liberty"
+    },
+    "01": {
+        "Juice": "glass of Juice",
+        "Notebook": "Coil-bound Notebook",
+        "Pencil": "Wooden 2B Pencil",
+        "Seed": "Melon Seed",
+        "Snow": "Snowcapped Mountain"
+    },
+    "02": {
+        "Blanket": "Wool Blanket",
+        "Playground": "Swing Set",
+        "Hospital": "Building with a Red Cross"
+    },
+    "03": {
+        "Coffee": "Cup of Coffee",
+        "Bread": "Loaf of Bread",
+        "Cinema": "Movie Theater",
+        "Notebook": "Coil-bound Notebook",
+        "Pencil": "Wooden 2B Pencil",
+        "Hat": "Baseball Cap",
+        "Museum": "British Museum",
+        "Painting": "Painting in the picture frame",
+        "Shop": "Gift Shop"
+    },
+    "04": {
+        "Book": "Hardcover Book",
+        "Workshop": "Woodworking Workshop",
+        "Painting": "Painting in the picture frame"
+    },
+    "05": {
+        "Beach": "Sandy Beach with Palm Trees",
+        "Belt": "Leather Belt",
+        "Hospital": "Building with a Red Cross",
+        "Notebook": "Coil-bound Notebook"
+    },
+    "06": {
+        "Cafe": "Coffee Shop",
+        "Mall": "Shopping Mall",
+        "Market": "Farmer's Market",
+        "Restaurant": "Fine Dining Restaurant",
+        "Shelf": "Bookshelf",
+        "Snow": "Snowcapped Mountain"
+    },
+    "07": {
+        "Bracelet": "Jade Bracelet",
+        "Brush": "Paintbrush",
+        "Towel": "Beach Towel"
+    },
+    "08": {
+        "Cheese": "Wheel Cheese",
+        "Chocolate": "Chocolate Bar",
+        "Medicine": "Pill Bottle",
+        "Milk": "glass of Milk",
+        "Pencil": "Wooden 2B Pencil",
+        "Sand": "Desert Sand"
+    },
+    "09": {
+        "Island": "Tropical Island",
+        "Station": "Train Station"
+    },
+    "10": {
+        "Chocolate": "Chocolate Bar",
+        "Medicine": "Pill Bottle",
+        "Station": "Train Station",
+        "Rug": "Persian Rug"
+    },
+    "11": {
+        "Cheese": "Wheel Cheese",
+        "Station": "Train Station",
+        "Gallery": "Art Gallery",
+        "Port": "Harbor Port",
+        "Star": "Shooting Star"
+    },
+    "12": {
+        "Grass": "Green Grass",
+        "Pillow": "Fluffy Pillow",
+        "Watermelon": "Watermelon Slice",
+        "Wallet": "Leather Wallet"
+    },
+    "13": {
+        "Bed": "King Size Bed",
+        "Chocolate": "Chocolate Bar",
+        "Fire": "Campfire",
+        "Juice": "glass of Juice",
+        "Park": "City Park",
+        "Plate": "Dinner Plate",
+        "Pool": "Swimming Pool",
+        "Seed": "Melon Seed"
+    },
+    "14": {},
+    "15": {
+        "Corn": "Ear of Corn",
+        "Duck": "Rubber Duck",
+        "Fish": "Goldfish",
+        "Kangaroo": "Kangaroo with Joey",
+        "Strawberry": "Strawberry Plant",
+        "Wallet": "Leather Wallet",
+        "Mall": "Shopping Mall",
+        "Medicine": "Pill Bottle"
+    },
+    "16": {
+        "Pants": "Jeans",
+        "Towel": "Beach Towel"
+    },
+    "17": {
+        "Bed": "King Size Bed",
+        "Aquarium": "Fish Tank",
+        "Coat": "Winter Coat",
+        "Glasses": "Reading Glasses",
+        "Rug": "Persian Rug"
+    },
+    "18": {
+        "Brush": "Paintbrush",
+        "Rug": "Persian Rug",
+        "Pillow": "Fluffy Pillow"
+    },
+    "19": {},
+    "20": {
+        "Book": "Hardcover Book",
+        "Bracelet": "Jade Bracelet",
+        "Opera": "Opera House",
+        "Plate": "Dinner Plate",
+        "Ring": "Wedding Ring"
+    },
+    "21": {
+        "Pencil": "Wooden 2B Pencil",
+        "Plane": "Airplane",
+        "Restaurant": "Fine Dining Restaurant",
+        "Tea": "Cup of Tea"
+    },
+    "22": {
+        "Coffee": "Cup of Coffee",
+        "Dog": "Puppy",
+        "Key": "Skeleton Key",
+        "Notebook": "Coil-bound Notebook",
+        "Pillow": "Fluffy Pillow"
+    },
+    "23": {
+        "Chocolate": "Chocolate Bar",
+        "Seed": "Melon Seed",
+        "Smoke": "Smokestack",
+        "Spoon": "Wooden Spoon",
+        "Theater": "Theater Stage"
+    },
+    "24": {
+        "Branch": "Tree Branch",
+        "Brush": "Paintbrush",
+        "Clock": "Grandfather Clock",
+        "Coffee": "Cup of Coffee",
+        "Kinfe": "Butter Knife",
+        "Lake": "Mountain Lake",
+        "Medicine": "Pill Bottle",
+        "Painting": "Painting in the picture frame",
+        "Plate": "Dinner Plate",
+        "Rug": "Persian Rug",
+        "Shop": "Gift Shop",
+        "Spoon": "Wooden Spoon"
+    },
+    "25": {},
+    "26": {},
+    "27": {
+        "Peach": "Honey Peach",
+        "School": "School Building",
+        "Televison": "Flat Screen Television",
+        "Towel": "Beach Towel"
+    }
+}
