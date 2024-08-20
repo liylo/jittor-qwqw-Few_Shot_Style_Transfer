@@ -5,6 +5,9 @@ from diffusers import StableDiffusionPipeline, DDIMInverseScheduler,  DDIMSchedu
 import jittor.transform as tvt
 import jittor as jt
 import jtorch
+import os
+
+# Refer to https://github.com/jiwoogit/StyleID
 # Diffusers attention code for getting query, key, value and attention map
 def attention_op(attn, hidden_states, encoder_hidden_states=None, attention_mask=None, query=None, key=None, value=None, attention_probs=None, temperature=1.0):
     residual = hidden_states
@@ -74,6 +77,7 @@ def attention_op(attn, hidden_states, encoder_hidden_states=None, attention_mask
     hidden_states = hidden_states / attn.rescale_output_factor
     
     return attention_probs, query, key, value, hidden_states
+
 def get_unet_layers(unet):
     
     layer_num = [i for i in range(12)]
@@ -213,46 +217,26 @@ class style_transfer_module():
                 return modified_output
         
         return hook
-    
-    def __modify_self_attn_qkv_al(self, name):
-        def hook(model, input, output,args):
-        
-            if self.trigger_modify_qkv:
-                
-                _, q_cs, k_cs, v_cs, _= attention_op(model, input[0])
-                
-                q_c, k_s, v_s = self.attn_features_modify[name][int(self.cur_t)]
-                
-                # style injection
-                q_hat_cs = adain2(q_cs, q_c,-1)
-                k_cs, v_cs =adain2(k_cs, k_s,-1), v_cs 
-
-                kk=jt.concat([k_s,k_cs],dim=0)
-                vv=jt.concat([v_s,v_cs],dim=0)
-                
-                # Replace query key and value
-                _, _, _, _, modified_output = attention_op(model, input[0], key=kk, value=vv, query=q_hat_cs, temperature=self.style_transfer_params['tau'])
-                
-                return modified_output
-        
-        return hook
-    
-def adain2(zT_content, zT_style,dim=-1):
-    return (zT_content - zT_content.mean(dim=dim, keepdim=True)) / (jittor_std(zT_content,dim=dim, keepdim=True) + 1e-4) * jittor_std(zT_style,dim=dim, keepdim=True) + zT_style.mean(dim=dim, keepdim=True)
 
 def load_image(imgname: str, target_size: Optional[Union[int, Tuple[int, int]]] = None):
     pil_img = Image.open(imgname).convert('RGB')
+
     if target_size is not None:
         if isinstance(target_size, int):
             target_size = (target_size, target_size)
+
         pil_img = pil_img.resize(target_size, Image.Resampling.LANCZOS)
+
     return tvt.ToTensor()(pil_img)[None, ...]
 
 def jittor_std(x, dims=None, keepdim=False,dim=None):
+
     if dim is not None:
         return jt.sqrt(((x - x.mean(dim=dim, keepdim=True)) ** 2).mean(dim=dim, keepdim=True))
+    
     mean = x.mean(dims=dims, keepdim=keepdim)
     variance = ((x - mean) ** 2).mean(dims=dims, keepdim=keepdim)
+
     return jt.sqrt(variance)
 
 
@@ -262,73 +246,86 @@ def adain(zT_content, zT_style):
 MIDLLE_SIZE=(768,768)
 
 def generate(initial_latents, pipe,inv_scheduler,scheduler,total_steps,prompt,from_image,input_image,refer_image):
+
     inv_scheduler.set_timesteps(total_steps)
     scheduler.set_timesteps(total_steps)
+
     #setup
     unet_wrapper=style_transfer_module(pipe.unet)
     callback=make_callback(unet_wrapper,scheduler)
     unet_wrapper.trigger_get_qkv = True
     unet_wrapper.trigger_modify_qkv = False
-    #if from_image, reverse the image, else use pipe to generate the image
+
+    #if from_image, reverse the image
     unet_wrapper.cur_t = scheduler.timesteps[-1].item()
     if from_image:
         content_latents = img_to_latents(input_image,pipe.vae)
         pipe.scheduler=inv_scheduler
         zts0=pipe(prompt=prompt,num_inference_steps=total_steps,  width=content_latents.shape[-1], height=content_latents.shape[-2],guidance_scale=0.,
                             output_type='latent', return_dict=False,latents=content_latents,callback_on_step_end=callback)[0]
-    else:
-        pipe.scheduler=scheduler
-        pipe(prompt=prompt,num_inference_steps=total_steps,latents=initial_latents,width=MIDLLE_SIZE[0],height=MIDLLE_SIZE[1],guidance_scale=7.5,
-                            return_dict=False,callback_on_step_end=callback)
-        zts0=initial_latents
+
     content_features = copy.deepcopy(unet_wrapper.attn_features)
     refer_latents = img_to_latents(refer_image,pipe.vae)
+
     pipe.scheduler=inv_scheduler
     unet_wrapper.cur_t = scheduler.timesteps[-1].item()
     zts1=pipe(prompt=prompt,num_inference_steps=total_steps,  width=refer_latents.shape[-1], height=refer_latents.shape[-2],guidance_scale=0.,
                             output_type='latent', return_dict=False,latents=refer_latents,callback_on_step_end=callback)[0]
     style_features = copy.deepcopy(unet_wrapper.attn_features)
+
     unet_wrapper.attn_features = {}
     for layer_name in style_features.keys():
         unet_wrapper.attn_features_modify[layer_name] = {}
         for t in scheduler.timesteps:
             t = t.item()
             unet_wrapper.attn_features_modify[layer_name][t] = (content_features[layer_name][t][0], style_features[layer_name][t][1], style_features[layer_name][t][2])
+
     unet_wrapper.modify_hook()
     unet_wrapper.trigger_get_qkv = False
     unet_wrapper.trigger_modify_qkv = True
+
     zT_content=zts0
     zT_style=zts1
     latent_cs = adain(zT_content, zT_style)
+
     unet_wrapper.cur_t = scheduler.timesteps[0]
     pipe.scheduler=scheduler
     image = pipe(prompt=prompt,num_inference_steps=total_steps,latents=latent_cs,callback_on_step_end=callback,guidance_scale=1, width=MIDLLE_SIZE[0], height=MIDLLE_SIZE[1]).images[0]
+
     unet_wrapper.remove_hook()
     return image
 
-import os
 def adain_gen(pipe,inv_scheduler,scheduler,total_steps,prompt,input_image,refer_image=None,refer_latents=None,save_dir=None):
     inv_scheduler.set_timesteps(total_steps)
     scheduler.set_timesteps(total_steps)
     content_latents = img_to_latents(input_image,pipe.vae)
     pipe.scheduler=inv_scheduler
+
     zts0=pipe(prompt=prompt,num_inference_steps=total_steps,  width=content_latents.shape[-1], height=content_latents.shape[-2],guidance_scale=0.,
                         output_type='latent', return_dict=False,latents=content_latents)[0]
+    
     if os.path.exists(save_dir):
+
         zts1=jt.load(save_dir)
+
     elif refer_latents is None:
+
         refer_latents = img_to_latents(refer_image,pipe.vae)
         pipe.scheduler=inv_scheduler
         zts1=pipe(prompt=prompt,num_inference_steps=total_steps,  width=refer_latents.shape[-1], height=refer_latents.shape[-2],guidance_scale=0.,
                                 output_type='latent', return_dict=False,latents=refer_latents)[0]
+        
         if save_dir is not None:
             jt.save(zts1,save_dir)
             print(f"save refer_latents to {save_dir}")
     else:
         zts1 = refer_latents
+
     zT_content=zts0
     zT_style=zts1
     latent_cs = adain(zT_content, zT_style)
+
     pipe.scheduler=scheduler
     image = pipe(prompt=prompt,num_inference_steps=total_steps,latents=latent_cs,guidance_scale=1, width=MIDLLE_SIZE[0], height=MIDLLE_SIZE[1]).images[0]
+
     return image
