@@ -48,5 +48,51 @@ python test.py
 ```
 
 ## 致谢
+```
+@inproceedings{huang2017arbitrary,
+  title={Arbitrary style transfer in real-time with adaptive instance normalization},
+  author={Huang, Xun and Belongie, Serge},
+  booktitle={Proceedings of the IEEE International Conference on Computer Vision},
+  pages={1501--1510},
+  year={2017}
+}
 
-JDiffusion ...... (to be update)
+@inproceedings{chung2024style,
+  title={Style injection in diffusion: A training-free approach for adapting large-scale diffusion models for style transfer},
+  author={Chung, Jiwoo and Hyun, Sangeek and Heo, Jae-Pil},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  pages={8795--8805},
+  year={2024}
+}
+
+@article{liu2024parameter,
+  title={Parameter-efficient orthogonal finetuning via butterfly factorization},
+  author={Liu, Weiyang and Qiu, Zeju and Feng, Yao and Xiu, Yuliang and Xue, Yuxuan and Yu, Longhui and Feng, Haiwen and Liu, Zhen and Heo, Juyeon and Peng, Songyou and Wen, Yandong and Black, Michael J. and Weller, Adrian and Schölkopf, Bernhard},
+  journal={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2024},
+  url={https://boft.wyliu.com}
+}
+
+@article{liu2024dora,
+  title={DoRA: Weight-Decomposed Low-Rank Adaptation},
+  author={Liu, Shih-Yang and Wang, Chien-Yi and Yin, Hongxu and Molchanov, Pavlo and Wang, Yu-Chiang Frank and Cheng, Kwang-Ting and Chen, Min-Hung},
+  journal={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2024}
+}
+
+@misc{JDiffusion2024,
+  author = {Jittor Team},
+  title = {JDiffusion: Jittor-based Diffusion Models},
+  year = {2024},
+  howpublished = {\url{https://github.com/JittorRepos/JDiffusion}},
+  note = {Accessed: 2024-10-18}
+}
+
+@misc{PEFT2024,
+  author = {Hugging Face Team},
+  title = {PEFT: Parameter-Efficient Fine-Tuning},
+  year = {2024},
+  howpublished = {\url{https://github.com/huggingface/peft}},
+  note = {Accessed: 2024-10-18}
+}
+```
